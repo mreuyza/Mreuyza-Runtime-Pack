@@ -1,2 +1,5 @@
-# Mreuyza-Runtime-Pack
-Mreuyza Runtime Pack is an all-in-one Windows utility that installs essential runtimes and frameworks like Visual C++ Redistributables, .NET 3.5/4.5/4.8, DirectX, WebView2, XNA 4.0, and PhysX Legacy. Fixes missing DLLs, runtime errors, and common Windows issues with a simple GUI.
+Mreuyza Runtime Pack is free to use, share, and modify.
+All included installers belong to their respective owners.
+This software is provided "as is", without warranty of any kind.
+Use at your own risk; the author is not responsible for damage,
+data loss, or any issues caused by installation or misuse.
